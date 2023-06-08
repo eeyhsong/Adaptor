@@ -8,7 +8,7 @@
 - We propose a Global Adaptive Transformer, named GAT, for domain adaptation in EEG classification, where cross attention is used to align marginal distributions of source and target domains (subjects).
 - Parallel convolution is used to capture temporal and spatial features while preserving the structure information of EEG signals.
 - We design an adaptive center loss to align the conditional distribution of EEG features.
-- 
+
 
 ## Requirmenets:
 - Python 3.10
