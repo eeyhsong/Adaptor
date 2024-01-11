@@ -1,18 +1,9 @@
 """
 DOMAIN ADAPTION Transformer for EEG Classification
 
-Mainly three parts: Feature extractor, Classifier, Domain discriminator
+Multi-branch + transformer (*cross attention*) + adversarial learning + adaptive center loss
 
-Now, try to construct a final version
-Multi-branch + transformer + controversial learning
-
-Adaptive center loss
-
-Parallel Spatial-Temporal Convolution + Transformer-based Adaptor + Adaptive Center Loss
-
-Basic Version as the paper
-
-We want to demonstrate a strategy to use Transformer for domain adaptation
+Basic Version of the paper
 """
 
 
